@@ -2,6 +2,7 @@
 
 - 🔭working voluntarily Dev <Front-End>
 - Studying ReactJs
+-studying python
 
 
 
