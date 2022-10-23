@@ -7,10 +7,10 @@
 
   
   <div align="center">
-  <a href="https://github.com/bernardoocanesso/">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=BernardooCanesso&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/bernardoocanesso-show/">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=bernardocanesso-show&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BernardooCanesso&layout=compact&langs_count=7&theme=transparent"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bernardocanesso-show&layout=compact&langs_count=7&theme=transparent"/>
 </div>
     
    ##
